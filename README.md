@@ -6,7 +6,7 @@
 ### Author: Benjamin Clark
 
 ### Links and Resources
-* [submission PR](https://github.com/benjamin-401-advanced-javascript/deployment-workshop/pull/1)
+* [submission PR](https://github.com/benjamin-401-advanced-javascript/deployment-workshop/pull/2)
 * [travis](https://travis-ci.com/benjamin-401-advanced-javascript/deployment-workshop)
 * [front-end](https://cf-401-deployment-workshop.herokuapp.com/) (when applicable)
 
